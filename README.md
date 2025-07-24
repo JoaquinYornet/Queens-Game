@@ -1,6 +1,6 @@
 # Queens Game - Version 0.5.0
 
-https://JoaquinYornet.github.io/Queens-Game/
+https://elpelado619.github.io/Queens-Game/
 
 
 Diseño Web: https://github.com/JoaquinYornet
