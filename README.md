@@ -7,6 +7,6 @@ Diseño Web: https://github.com/JoaquinYornet
 
 Lógica: https://github.com/ElPelado619
 
-
 Logos: https://www.svgrepo.com
+
 Paletas de colores: https://coolors.co/
