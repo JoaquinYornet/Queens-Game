@@ -1,4 +1,4 @@
-# Queens Game - Version 0.5.0
+# Queens Game - Version 1.0.0
 
 https://JoaquinYornet.github.io/Queens-Game/
 
