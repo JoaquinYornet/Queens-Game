@@ -9,4 +9,4 @@ Lógica: https://github.com/ElPelado619
 
 
 Logos: https://www.svgrepo.com
-Color palettes: https://coolors.co/
+Paletas de colores: https://coolors.co/
